@@ -1,0 +1,10 @@
+{
+  "code_version": "3b6ba8ef7c152e91eb9c0f66117a4ab5163ea9832d830fc080643e5ddaf5e115",
+  "escalated": [],
+  "metrics_sha256": "a8b040cd0ae538dcad4c85aaa445a656e9427c4af35d4d01d2ca697ff3c40fa7",
+  "n_runs": 1130,
+  "n_trace_checksums": 300,
+  "n_traces": 300,
+  "traces_npz_sha256": "99e52e5e0bb6683fd634030078792d37f6cfbcca39e0eebc662304677e4d1dca",
+  "wall_seconds": 21.818642139434814
+}
